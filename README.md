@@ -50,7 +50,3 @@ Welcome to the DVD Shop Website repository! This project is a mock DVD shop webs
 ## Contributors
 
 - Prithvishan (https://github.com/Prithvishan17)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
